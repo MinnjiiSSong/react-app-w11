@@ -1,3 +1,57 @@
+body {
+  font-family: 'Gothic A1', sans-serif;
+  background-color: navajowhite;
+  padding: 50px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+a {
+  color: indianred;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h1 a {
+  font-weight: 900;
+  font-size: 75px;
+}
+
+h2 {
+  color: brown;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+h6 {
+  font-weight: 700;
+  font-size: 15px;
+  color: burlywood;
+}
+
+img {
+  width: 400px;
+  margin: 20px;
+}
+
+ol,ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 .App {
   text-align: center;
 }
