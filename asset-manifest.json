@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MinnjiiSSong/react-app-w11/static/css/main.43408df6.css",
+    "main.js": "/MinnjiiSSong/react-app-w11/static/js/main.a7b023ee.js",
+    "static/js/787.a4b45000.chunk.js": "/MinnjiiSSong/react-app-w11/static/js/787.a4b45000.chunk.js",
+    "static/media/web.png": "/MinnjiiSSong/react-app-w11/static/media/web.f0e738336ee9ecd0cc77.png",
+    "static/media/hunchiback.jpg": "/MinnjiiSSong/react-app-w11/static/media/hunchiback.120b966d0ed9d265ea73.jpg",
+    "static/media/trust.jpg": "/MinnjiiSSong/react-app-w11/static/media/trust.71cf1f5bfcf970da9d4a.jpg",
+    "static/media/achim.jpg": "/MinnjiiSSong/react-app-w11/static/media/achim.32ce01aef44bf906a59b.jpg",
+    "index.html": "/MinnjiiSSong/react-app-w11/index.html",
+    "main.43408df6.css.map": "/MinnjiiSSong/react-app-w11/static/css/main.43408df6.css.map",
+    "main.a7b023ee.js.map": "/MinnjiiSSong/react-app-w11/static/js/main.a7b023ee.js.map",
+    "787.a4b45000.chunk.js.map": "/MinnjiiSSong/react-app-w11/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43408df6.css",
+    "static/js/main.a7b023ee.js"
+  ]
+}
